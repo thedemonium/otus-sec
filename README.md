@@ -1,2 +1,2 @@
 # otus-sec
-Otus Linux Security
+Домашние задания по курсу Otus Linux Security
