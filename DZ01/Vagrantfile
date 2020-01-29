@@ -1,7 +1,7 @@
 MACHINES = {
 :kali => {
-        :box_name => "lejer/kali",
-#        :box_name => "elrey741/kali-linux_amd64",
+#        :box_name => "lejer/kali",
+        :box_name => "kalilinux/rolling",
         :net => [
                    {ip: '192.168.10.1', adapter: 2, netmask: "255.255.255.252", virtualbox__intnet: "net"},
                 ]
